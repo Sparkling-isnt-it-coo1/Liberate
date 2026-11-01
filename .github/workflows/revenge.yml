@@ -1,7 +1,7 @@
 name: Revenge Next plugins
 
 # revenge/ 의 테마 플러그인을 묶어서 revenge-dist 브랜치에 올린다.
-# Revenge → Plugins 에 추가할 저장소 주소: https://raw.githubusercontent.com/Yumistra/Liberate/revenge-dist
+# Revenge → Plugins 에 추가할 저장소 주소: https://raw.githubusercontent.com/Sparkling-isnt-it-coo1/Liberate/revenge-dist
 on:
   push:
     branches: [main]

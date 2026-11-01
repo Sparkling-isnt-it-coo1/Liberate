@@ -3,7 +3,7 @@
     "description": "개인적인 맞춤형 테마",
     "authors": [
         {
-            "name": "Yumistra"
+            "name": "Sparkling-isnt-it-coo1"
         }
     ],
     "plus": {
@@ -1616,7 +1616,7 @@
         "YELLOW_900": "#9fa914"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/Yumistra/Liberate/main/Discord/20260722_211237.jpg",
+        "url": "https://raw.githubusercontent.com/Sparkling-isnt-it-coo1/Liberate/main/Discord/20260722_211237.jpg",
         "blur": 1,
         "alpha": 0.2,
         "size": "cover",
