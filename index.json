@@ -1,0 +1,34 @@
+{
+  "format": 1,
+  "name": "Liberate",
+  "description": "Sparkling-isnt-it-coo1's themes for Revenge Next",
+  "plugins": {
+    "sparkling-isnt-it-coo1.distorted-heavens": {
+      "name": "DISTORTED HEAVENS",
+      "description": "Personal theme with fonts and a background.",
+      "author": "Sparkling-isnt-it-coo1",
+      "icon": "PaintPaletteIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/Sparkling-isnt-it-coo1/Liberate/revenge-dist/pool/sparkling-isnt-it-coo1.distorted-heavens@1.0.0.zip",
+          "sha256": "6fa1c86f90f7d9efec820180e49d00a85198c38c449c7c1decf77bd6ecce33af",
+          "size": 1735499,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1.2.1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "revenge.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}
